@@ -33,7 +33,7 @@ Smart Habit Tracker is a modern web application designed to help users create, t
 ## 🖥️ Setup Instructions
 1. **Clone the repository:**
    ```bash
-   git clone <https://github.com/jhansinip/smart-habit-tracker.git>
+   git clone https://github.com/jhansinip/smart-habit-tracker.git
    cd habit-tracker
    ```
 2. **Install dependencies:**
